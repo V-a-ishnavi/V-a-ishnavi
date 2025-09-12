@@ -19,7 +19,7 @@ I’m passionate about **Data Analytics and AIML**, with a strong interest in ap
 
 🔧 Technical Skills
 
-* **Programming Languages:** Python, C, C++, Java
+* **Programming Languages:** Python, C
 * **Databases:** MySQL
 * **Data & Analytics:** Power BI, Excel, Pandas, NumPy
 * **AI/ML Tools:** Scikit-learn, NLP, OpenCV, Streamlit
