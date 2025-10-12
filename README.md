@@ -11,15 +11,15 @@ I’m passionate about **Data Analytics and AIML**, with a strong interest in ap
 
 * 📊 Skilled in **Data Analysis & Visualization** using Power BI, Excel, Pandas, and NumPy
 * 🤖 Experienced in **Machine Learning & AI concepts** including NLP and Computer Vision
-* 💻 Strong foundation in **Python, C, C++, Java, and SQL**
-* 🎨 Interest in **UI/UX design** for building user-friendly applications
-* 🏆 Presented research and projects at national-level **hackathons & conferences**
+* 💻 Strong foundation in **Python, Excel, SQL and Power BI**
+* 🎨 Interest in **Data Analytics** for finding the insights
+* 🏆 Presented research and projects at national-level **hackathons**
 
 ---
 
 🔧 Technical Skills
 
-* **Programming Languages:** Python, C
+* **Programming Languages:** Python
 * **Databases:** MySQL
 * **Data & Analytics:** Power BI, Excel, Pandas, NumPy
 * **AI/ML Tools:** Scikit-learn, NLP, OpenCV, Streamlit
@@ -33,6 +33,7 @@ I’m passionate about **Data Analytics and AIML**, with a strong interest in ap
 * Simplilearn – Data Analyst 101 (Excel Formulas & Functions)
 * Great Learning – Power BI Projects
 * Infosys Springboard – Basics of Python
+* R for Data Science - IBM SkillsBuild
 
 ---
 
